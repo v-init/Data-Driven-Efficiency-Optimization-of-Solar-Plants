@@ -2,17 +2,17 @@
 
 This repository contains code for analyzing and potentially predicting power generation data from solar plants. It includes functionality for:
 
-Data Import: Read power generation and weather data from CSV files.
+1. Data Import: Read power generation and weather data from CSV files.
 
-Database Creation: Create a non-normalized database using sqlite3 and populate it with raw data.
+2. Database Creation: Create a non-normalized database using sqlite3 and populate it with raw data.
 
-Data Normalization: Normalize the data by combining information from multiple plants and adding relevant metrics.
+3.Data Normalization: Normalize the data by combining information from multiple plants and adding relevant metrics.
 
-Data Exploration and Visualization: Explore and visualize the data using libraries like pandas and Matplotlib to gain deeper insights and identify patterns.
+4. Data Exploration and Visualization: Explore and visualize the data using libraries like pandas and Matplotlib to gain deeper insights and identify patterns.
 
-Machine Learning (Future Development): Implement machine learning models to predict future power generation and understand factors influencing it.
+5. Machine Learning (Future Development): Implement machine learning models to predict future power generation and understand factors influencing it.
 
-# Contributing:
+# Contributing
 
 I welcome contributions to this project! Please consider:
 
