@@ -6,7 +6,7 @@ This repository contains code for analyzing and potentially predicting power gen
 
 2. Database Creation: Create a non-normalized database using sqlite3 and populate it with raw data.
 
-3.Data Normalization: Normalize the data by combining information from multiple plants and adding relevant metrics.
+3. Data Normalization: Normalize the data by combining information from multiple plants and adding relevant metrics.
 
 4. Data Exploration and Visualization: Explore and visualize the data using libraries like pandas and Matplotlib to gain deeper insights and identify patterns.
 
